@@ -234,47 +234,4 @@
   283  python app.py
   284  python app.py
   285  python app.py
-  286  cd loan_qualifier_app
-  287  ls
-  288  python app.py
-  289  conda activate dev
-  290  python app.py
-  291  cd ..
-  292  git status
-  293  git add qualifying_loans.csv
-  294  git add
-  295  git add .
-  296  git status
-  297  git commit -m "Upload containing the save_csv.py file and function and the qualifying_loans.csv file to save the loans"
-  298  git push 
-  299  ls
-  300  cd loan_qualifier_app
-  301  ls
-  302  python app.py
-  303  python app.py
-  304  python app.py 
-  305  python app.py
-  306  python app.py
-  307  cd ..
-  308  git status
-  309  git commit -m "Upload containing the working version of the save_qualifying_loans function and updated save_csv.py file and function"
-  310  git add
-  311  git add .
-  312  git status
-  313  git commit -m "Upload containing the working version of the save_qualifying_loans function and updated save_csv.py file and function"
-  314  git push 
-  315  git status
-  316  git add
-  317  cd loan_qualifier_app
-  318  python app.py
-  319  python app.py
-  320  cd ..
-  321  git status
-  322  git add .
-  323  git status
-  324  git commit -m "Upload with the save_csv function moved to the fileio.py file"
-  325  git push 
-  326  git add .
-  327  git status
-  328  git commit -m "Upload containing the final version of the application and associated files and an updated README.md file"
-  329  git push 
+  286  git status
