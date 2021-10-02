@@ -1,0 +1,280 @@
+   50  python "/Users/briggslalor/Desktop/BootCamp Week 1/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py"
+   51  python "/Users/briggslalor/Desktop/BootCamp Week 1/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py"
+   52  python "/Users/briggslalor/Desktop/BootCamp Week 1/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py"
+   53  python "/Users/briggslalor/Desktop/BootCamp Week 1/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py"
+   54  python "/Users/briggslalor/Desktop/BootCamp Week 1/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py"
+   55  python "/Users/briggslalor/Desktop/BootCamp Week 1/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py"
+   56  python "/Users/briggslalor/Desktop/BootCamp Week 1/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py"
+   57  python "/Users/briggslalor/Desktop/BootCamp Week 1/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py"
+   58  python "/Users/briggslalor/Desktop/BootCamp Week 1/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py"
+   59  python /Users/briggslalor/Desktop/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+   60  python /Users/briggslalor/Desktop/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+   61  python /Users/briggslalor/Desktop/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+   62  python /Users/briggslalor/Desktop/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+   63  python /Users/briggslalor/Desktop/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+   64  python /Users/briggslalor/Desktop/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+   65  conda activate dev
+   66  pip -V
+   67  pip freeze
+   68  pip install fire
+   69  pip install questionary 
+   70  python "/Users/briggslalor/Desktop/BootCamp Week 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+   71  python "/Users/briggslalor/Desktop/BootCamp Week 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+   72  python "/Users/briggslalor/Desktop/BootCamp Week 2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+   73  python "/Users/briggslalor/Desktop/BootCamp Week 2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+   74  python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+   75  python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+   76  python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+   77  python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+   78  python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+   79  python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+   80  python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+   81  python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+   82  python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+   83  python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+   84  python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+   85  source /opt/anaconda3/bin/activate
+   86  conda activate /opt/anaconda3
+   87  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+   88  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+   89  ls
+   90  cd Unsolved
+   91  ls
+   92  pwd
+   93  cd 
+   94  ls
+   95  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+   96  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+   97  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+   98  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+   99  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+  100  pwd
+  101  cd Desktop
+  102  pwd
+  103  cd BootCamp Week 2
+  104  ls
+  105  cd BootCamp\ Week\ 2
+  106  ls
+  107  cd Class_1_Activities
+  108  ls
+  109  cd 01_Stu_Python_Code_Drills
+  110  ls
+  111  cd Unsolved
+  112  ls
+  113  cd 09-csv-01
+  114  ls
+  115  cd Unsolved
+  116  ls
+  117  python csv-01.py
+  118  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+  119  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+  120  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/BootCamp Week 2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  121  source /opt/anaconda3/bin/activate
+  122  conda activate /opt/anaconda3
+  123  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/BootCamp Week 2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  124  conda create -n atmdev python=3.7 anaconda
+  125  source /opt/anaconda3/bin/activate
+  126  conda activate /opt/anaconda3
+  127  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  128  conda activate dev
+  129  conda activate atmdev
+  130  conda info --env
+  131  source /opt/anaconda3/bin/activate
+  132  conda activate /opt/anaconda3
+  133  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  134  clear
+  135  conda activate atmdev
+  136  conda info --envs
+  137  conda env list
+  138  conda activate atmdev
+  139  conda activate dev
+  140  conda activate atmdev
+  141  /Users/briggslalor/opt/anaconda3/envs/atmdev/bin/python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  142  conda activate dev
+  143  conda env list
+  144  conda activate dev
+  145  conda deactivate
+  146  conda activate atmdev
+  147  cd Desktop
+  148  ls
+  149  code cu-virt-fin-pt-09-2021-u-b-main
+  150  source /opt/anaconda3/bin/activate
+  151  conda activate /opt/anaconda3
+  152  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  153  conda list
+  154  /Users/briggslalor/opt/anaconda3/envs/dev/bin/python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  155  /Users/briggslalor/opt/anaconda3/envs/dev/bin/python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  156  /Users/briggslalor/opt/anaconda3/envs/dev/bin/python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/utils.py"
+  157  /Users/briggslalor/opt/anaconda3/envs/dev/bin/python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  158  /Users/briggslalor/opt/anaconda3/envs/dev/bin/python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  159  /Users/briggslalor/opt/anaconda3/envs/dev/bin/python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/utils.py"
+  160  /Users/briggslalor/opt/anaconda3/envs/dev/bin/python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  161  /Users/briggslalor/opt/anaconda3/envs/dev/bin/python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  162  clear
+  163  /Users/briggslalor/opt/anaconda3/envs/dev/bin/python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/utils.py"
+  164  /Users/briggslalor/opt/anaconda3/envs/dev/bin/python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  165  /Users/briggslalor/opt/anaconda3/envs/dev/bin/python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/utils.py"
+  166  /Users/briggslalor/opt/anaconda3/envs/dev/bin/python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/utils.py"
+  167  /Users/briggslalor/opt/anaconda3/envs/dev/bin/python "/Users/briggslalor/Desktop/BootCamp Week 2/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  168  cd Desktop
+  169  pwd
+  170  cd ..
+  171  cd ..
+  172  ls
+  173  cd cu-virt-fin-pt-09-2021-u-b-main
+  174  cd Desktop
+  175  mkdir fintech-test
+  176  code .
+  177  cd fintech-test
+  178  git clone git@github.com:briggslalor/Test-Repository-.git
+  179  ls
+  180  ls
+  181  git push
+  182  git status
+  183  ls
+  184  git status
+  185  cd Desktop
+  186  cd ...
+  187  cd ..
+  188  ls
+  189  cd fintech-test
+  190  git status
+  191  ls
+  192  git status
+  193  cd Test-Repository-
+  194  ls
+  195  git status
+  196  ls
+  197  git status
+  198  git add
+  199  git add .
+  200  git commit /m
+  201  git commit -m
+  202  git commit -m "Test Repository push"
+  203  git push
+  204  git status
+  205  cd Desktop
+  206  cd ..
+  207  cd ..
+  208  ls
+  209  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/cu-virt-fin-pt-09-2021-u-b.git
+  210  source /opt/anaconda3/bin/activate
+  211  conda activate /opt/anaconda3
+  212  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/Challenge 1/loan_analyzer.py"
+  213  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/Challenge 1/loan_analyzer.py"
+  214  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/Challenge 1/loan_analyzer.py"
+  215  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/Challenge 1/loan_analyzer.py"
+  216  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/Challenge 1/loan_analyzer.py"
+  217  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/Challenge 1/loan_analyzer.py"
+  218  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/Challenge 1/loan_analyzer.py"
+  219  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/Challenge 1/loan_analyzer.py"
+  220  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/Challenge 1/loan_analyzer.py"
+  221  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/Challenge 1/loan_analyzer.py"
+  222  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/Challenge 1/loan_analyzer.py"
+  223  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/Challenge 1/loan_analyzer.py"
+  224  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/Challenge 1/loan_analyzer.py"
+  225  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/Challenge 1/loan_analyzer.py"
+  226  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/Challenge 1/loan_analyzer.py"
+  227  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/Challenge 1/loan_analyzer.py"
+  228  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/Challenge 1/loan_analyzer.py"
+  229  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/Challenge 1/loan_analyzer.py"
+  230  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/Challenge 1/loan_analyzer.py"
+  231  /opt/anaconda3/bin/python "/Users/briggslalor/Desktop/Challenge 1/loan_analyzer.py"
+  232  /System/Applications/Messages.app/Contents/MacOS/Messages ; exit;
+  233  conda activate dev
+  234  jupyter lab
+  235  anaconda navigator
+  236  conda activate dev
+  237  anaconda naviogator
+  238  anaconda-navigator
+  239  clear
+  240  base
+  241  conda deactivate
+  242  anaconda-navigator
+  243  conda activate dev
+  244  jupyter lab
+  245  conda activate dev
+  246  cd ..
+  247  jupyter lab
+  248  cd Desktop
+  249  cd cu-virt-fin-pt-09-2021-u-b
+  250  git pull
+  251  cd ..
+  252  jupyter lab
+  253  conda activate dev
+  254  python app.py
+  255  cd Desktop
+  256  cd Challenge_2
+  257  python app.py
+  258  ls
+  259  cd loan_qualifier_app
+  260  ls
+  261  python app.py
+  262  cd Desktop
+  263  cd Challenge_2
+  264  ls
+  265  cd loan_qualifier_app
+  266  ls
+  267  $ python app.py
+  268  cd Desktop
+  269  ls
+  270  cd Challenge_2
+  271  ls
+  272  cd loan_qualifier_app
+  273  ls
+  274  python app.py
+  275  conda activate dv
+  276  conda activate dev
+  277  python app.py
+  278  python app.py
+  279  python app.py
+  280  python app.py
+  281  python app.py
+  282  python app.py
+  283  python app.py
+  284  python app.py
+  285  python app.py
+  286  cd loan_qualifier_app
+  287  ls
+  288  python app.py
+  289  conda activate dev
+  290  python app.py
+  291  cd ..
+  292  git status
+  293  git add qualifying_loans.csv
+  294  git add
+  295  git add .
+  296  git status
+  297  git commit -m "Upload containing the save_csv.py file and function and the qualifying_loans.csv file to save the loans"
+  298  git push 
+  299  ls
+  300  cd loan_qualifier_app
+  301  ls
+  302  python app.py
+  303  python app.py
+  304  python app.py 
+  305  python app.py
+  306  python app.py
+  307  cd ..
+  308  git status
+  309  git commit -m "Upload containing the working version of the save_qualifying_loans function and updated save_csv.py file and function"
+  310  git add
+  311  git add .
+  312  git status
+  313  git commit -m "Upload containing the working version of the save_qualifying_loans function and updated save_csv.py file and function"
+  314  git push 
+  315  git status
+  316  git add
+  317  cd loan_qualifier_app
+  318  python app.py
+  319  python app.py
+  320  cd ..
+  321  git status
+  322  git add .
+  323  git status
+  324  git commit -m "Upload with the save_csv function moved to the fileio.py file"
+  325  git push 
+  326  git add .
+  327  git status
+  328  git commit -m "Upload containing the final version of the application and associated files and an updated README.md file"
+  329  git push 
